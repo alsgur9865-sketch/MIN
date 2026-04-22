@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=&color=0:0f0c29,100:302b63&animation=fadeIn" width="100%"/>
 
-<img src="./스핔이.jpg" width="130px"/>
+<img src="./스핔이_bounce.svg" width="440px"/>
 
 <br/>
 
