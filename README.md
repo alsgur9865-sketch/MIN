@@ -30,10 +30,10 @@
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
-- 🕹️ Solo developer who builds apps & webs by **vibe coding with AI**
-- - 📱 Flutter apps · Web · Electron desktop — anything goes
-  - - 🤖 Using **Claude** as my senior co-developer
-    - - 📈 Content creator about AI / Economics / English / Japanese [@MIN](https://x.com/master_pie4799)
+-  🕹️ Solo developer who builds apps & webs by **vibe coding with AI**
+-  📱 Flutter apps · Web · Electron desktop — anything goes
+-  🤖 Using **Claude** as my senior co-developer
+-  📈 Content creator about AI / Economics / English / Japanese [@MIN](https://x.com/master_pie4799)
      
       - ---
 
@@ -48,7 +48,7 @@
       [![My Skills](https://skillicons.dev/icons?i=flutter,dart,react,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
       ### 🤖 AI & Tools
-      [![My Skills](https://skillicons.dev/icons?i=vscode,git,github,figma&theme=dark)](https://skillicons.dev)
+      [![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
 
       ![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
 
