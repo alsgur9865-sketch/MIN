@@ -33,7 +33,7 @@
 - 🕹️ Solo developer who builds apps & webs by **vibe coding with AI**
 - 📱 Flutter apps · Web · Electron desktop — anything goes
 - 🤖 Using **Claude** as my senior co-developer
-- 📈 Content creator about AI / Economics / English / Japanese [@MIN](https://x.com/master_pie4799)
+- 📈 Content creator about AI / Economics / English / Japanese [@min_ai_native](https://x.com/min_ai_native)
 
 ---
 
@@ -128,7 +128,8 @@
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/@master__pie4799-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/master_pie4799)
+[![X](https://img.shields.io/badge/@min__ai__native-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/min_ai_native)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/365027552219365391)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alsgur9865-sketch)
 
 </div>
