@@ -6,10 +6,6 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=13&pause=1000&color=00FFCC&center=true&vCenter=true&width=600&lines=Hi+there%21+I%27m+MIN+%F0%9F%91%BE;Vibe+Coder+%2B+AI+Enthusiast+%F0%9F%A4%96;Flutter+%7C+Web+%7C+Electron+%F0%9F%93%B1;Building+apps+with+Claude+%F0%9F%92%AC" alt="Typing SVG" />
-
-<br/>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00ffcc,100:302b63" width="60%"/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=alsgur9865-sketch&color=00ffcc&style=pixel&label=VISITORS)
@@ -24,16 +20,11 @@
 ```
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
   Name     :  MIN
-  Role     :  Solo Developer
+  Role     :  AI Native
   Style    :  Vibe Coding  🤖💬
   Goal     :  Financial Independence + Great Products
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
-
-- 🕹️ Solo developer who builds apps & webs by **vibe coding with AI**
-- 📱 Flutter apps · Web · Electron desktop — anything goes
-- 🤖 Using **Claude** as my senior co-developer
-- 📈 Content creator about AI / Economics / English / Japanese [@min_ai_native](https://x.com/min_ai_native)
 
 ---
 
