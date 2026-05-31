@@ -16,12 +16,10 @@
 ## 👾 &nbsp;About Me
 
 ```
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
   Name     :  MIN
   Role     :  AI Native
   Style    :  Vibe Coding  🤖💬
   Goal     :  Financial Independence + Great Products
-▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
 
 ## 🐍 &nbsp;Contribution Snake
