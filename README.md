@@ -13,8 +13,6 @@
 
 </div>
 
----
-
 ## 👾 &nbsp;About Me
 
 ```
@@ -25,8 +23,6 @@
   Goal     :  Financial Independence + Great Products
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ```
-
----
 
 ## 🐍 &nbsp;Contribution Snake
 
